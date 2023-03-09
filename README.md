@@ -11,6 +11,6 @@
 ## Built with
 - React
 - Styled Components
--TypeScript
+- TypeScript
 ## Authors
 - [Aleksandre chokheli](https://github.com/aleksandrre)
